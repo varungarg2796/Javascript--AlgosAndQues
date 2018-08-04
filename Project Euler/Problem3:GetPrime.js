@@ -1,3 +1,5 @@
+//The prime factors of 13195 are 5, 7, 13 and 29. getPrime(13195) should return 29
+
 function getPrime(number)
 {
     var factor = 2;
@@ -17,4 +19,4 @@ function getPrime(number)
     return factor;
 }
 
-getPrime(12);
+console.log(getPrime(43));
