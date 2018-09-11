@@ -12,6 +12,7 @@ function addUpTo(n) {
     return total;
   }
   
+  //Yes I changed this
 
 var start = clock();
 addUpTo(1000000000);
